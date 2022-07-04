@@ -11,5 +11,7 @@
 
 #### **Problem-8 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
+#### **Problem-9 [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/)
+
 
 
