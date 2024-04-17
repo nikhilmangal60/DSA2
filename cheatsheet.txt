@@ -1,4 +1,4 @@
-Recursion Approach- 3 Type
+Recursion Approach- 3 Type(work with all subsequence type of question like max subsequence sum/ min subsequence sum)
   1. Take and not take- index+1 for both(eg - take number unique number of times for subsequence type of questions)
   2. Take and not take- index+1 for not take and index for take(eg- take number any number of times)
   3. Recursion with for loop(eg-if the input contains duplicate numbers and you need to find all subset with non duplicate subset/ take number unique number of times)----- optimised approach
